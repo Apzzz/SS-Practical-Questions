@@ -1,2 +1,2 @@
 # SS-Practical-Questions
-S5 CS SS&amp;MP Lab Questions
+BTECH S5 CS SS Lab Questions
