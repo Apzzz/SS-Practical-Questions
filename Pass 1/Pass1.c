@@ -2,7 +2,7 @@
 		EXPERIMENT NO: 5
 		EXPERIMENT NAME: PASS 1 OF 2 PASS ASSEMBLER
 		AIM: To implement pass 1 of a 2 pass assembler
-		AUTHOR: SRUTHI SAGAR
+		AUTHOR: APARNA DINESH
 		Date: 09/12/2021
 */
 
