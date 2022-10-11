@@ -2,7 +2,7 @@
         EXPERIMENT NO: 
         EXPERIMENT NAME: SINGLE PASS ASSEMBLER
         AIM: To implement single pass assembler
-        AUTHOR: SRUTHI SAGAR
+        AUTHOR: APARNA DINESH
         Date: 13/01/2022
 */
 
