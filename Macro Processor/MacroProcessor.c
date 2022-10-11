@@ -2,7 +2,7 @@
         EXPERIMENT NO: 9
         EXPERIMENT NAME: SINGLE PASS MACRO PROCESSOR
         AIM: To implement a single pass macro processor
-        AUTHOR: SRUTHI SAGAR
+        AUTHOR: APARNA DINESH
         Date: 15/02/2022
 */
 
