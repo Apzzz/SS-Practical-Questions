@@ -1,13 +1,4 @@
 
-/*		
-		EXPERIMENT NO: 3
-		EXPERIMENT NAME: BANKER'S ALGORITHM
-		AIM: To implement banker's algorithm for deadlock avoidance
-		AUTHOR: SRUTHI SAGAR
-		Date: 02/11/2021
-*/
-
-// ------PROGRAM------
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -231,58 +222,3 @@ void main()
 		exit(0);
 }
 
-// ------OUTPUT------
-
-// Enter the no of processes
-// 5
-// Enter the no of resources
-// 4
-
-// Enter the allocation matrix
-// 0 0 1 2
-// 1 0 0 0
-// 1 3 5 4
-// 0 6 3 2
-// 0 0 1 4
-
-// Enter the maximum matrix
-// 0 0 1 2
-// 1 7 5 0
-// 2 3 5 6
-// 0 6 5 2
-// 0 6 5 6
-
-// Enter the available array
-// 1 5 2 0
-
-// Need Matrix:
-// 0 0 0 0 
-// 0 7 5 0 
-// 1 0 0 2 
-// 0 0 2 0 
-// 0 6 4 2 
-
-// The system is in safe state
-// The safe sequences are:
-// P0->P2->P3->P4->P1
-// P3->P2->P1->P0->P4
-// P3->P4->P2->P1->P0
-
-// Is there a resource request? (1/0) 1
-// Enter the process id
-// 1
-// Enter the request
-// 0 4 2 0
-
-// The system is in safe state
-// The safe sequences are:
-// P0->P2->P3->P4->P1
-// P0->P2->P1->P4->P3
-// P0->P2->P3->P4->P1
-
-// Is there a resource request? (1/0) 1
-// Enter the process id
-// 2
-// Enter the request
-// 1 3 2 0
-// Resource can't be allocated
